@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.qa.testng.GetApiTest" duration-ms="2719" started-at="2020-06-08T15:42:02Z" finished-at="2020-06-08T15:42:05Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="2719" started-at="2020-06-08T15:42:02Z" finished-at="2020-06-08T15:42:05Z">
+      <class name="com.qa.testng.GetApiTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testng.GetApiTest@34ce8af7]" name="setup" is-config="true" duration-ms="9" started-at="2020-06-08T15:42:02Z" finished-at="2020-06-08T15:42:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAPITest()[pri:0, instance:com.qa.testng.GetApiTest@34ce8af7]" name="getAPITest" duration-ms="2673" started-at="2020-06-08T15:42:03Z" finished-at="2020-06-08T15:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAPITest -->
+      </class> <!-- com.qa.testng.GetApiTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qa.testng.GetApiTest -->
+</testng-results>
